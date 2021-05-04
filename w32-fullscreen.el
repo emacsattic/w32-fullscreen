@@ -1,4 +1,4 @@
-;;; w32-fullscreen.el - (real) Fullscreen support for win32
+;;; w32-fullscreen.el --- (real) Fullscreen support for win32
 
 ;; Author: Martin Svenson
 ;; URL: 
